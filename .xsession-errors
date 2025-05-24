@@ -78,3 +78,21 @@ RuntimeError: object at 0x7f84cfb01840 of type RenameMenu is not initialized
 
 (process:2268): Indicator-Datetime-WARNING **: 00:21:23.952: Unrecognized TZID: 'Etc/UTC'
 INFO:root:The HUD is disabled via org.mate.hud in gsettings.
+Gtk-Message: 00:30:15.237: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:30:15.238: Failed to load module "canberra-gtk-module"
+[7484:7484:0524/003015.586521:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7718:0524/003016.256882:ERROR:object_proxy.cc(632)] Failed to call method: org.freedesktop.DBus.ListActivatableNames: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.57" (uid=900 pid=7484 comm="/snap/chromium/1193/usr/lib/chromium-browser/chrom" label="snap.chromium.chromium (enforce)") interface="org.freedesktop.DBus" member="ListActivatableNames" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+[7704:7704:0524/003018.375722:ERROR:viz_main_impl.cc(152)] Exiting GPU process due to errors during initialization
+[7484:7484:0524/003019.956587:ERROR:CONSOLE(0)] "Access to XMLHttpRequest at 'https://ogads-pa.clients6.google.com/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData' from origin 'chrome-search://local-ntp' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: The value of the 'Access-Control-Allow-Credentials' header in the response is '' which must be 'true' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.", source: chrome-search://local-ntp/local-ntp.html (0)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x200000c (Advanced M)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+[7484:7484:0524/003719.350822:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.362983:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.364235:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.367048:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.372693:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.403897:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.408268:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.424556:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.432039:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[7484:7484:0524/003719.525454:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
